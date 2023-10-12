@@ -52,8 +52,7 @@
 
 # Binary Files
 /Binaries/*
-/Plugins/*/Binaries/*
-/Plugins/Runtime/*/Binaries/*
+/Plugins/***/Binaries/*
 
 # Builds
 /Build/*
@@ -76,8 +75,7 @@
 
 # Compiled source files for the engine to use
 /Intermediate/*
-/Plugins/*/Intermediate/*
-/Plugins/Runtime/*/Intermediate/*
+/Plugins/***/Intermediate/*
 
 # Cache files for the editor to use
 /DerivedDataCache/*
